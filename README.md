@@ -1,5 +1,5 @@
 # gorpc   
-This is a simple Golang based RPC framework based on Raft.  
+This is a simple RPC framework based on Raft.  
 Basic functions completed. Higher level functions to be updated.   
 Feel free to use it. You're welcome to star or fork this project.   
 
